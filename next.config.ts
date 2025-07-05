@@ -15,6 +15,7 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  allowedDevOrigins: ['7smvc4-8000.csb.app'],
 }
 
 export default nextConfig
